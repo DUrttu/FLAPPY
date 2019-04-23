@@ -9,9 +9,9 @@ var kuollu = 0;
 
 let start;
 function preload() {
-  dead = loadImage('https://raw.githubusercontent.com/DUrttu/FLAPPY/master/taustaa.png');
-  kuva1 = loadImage('https://raw.githubusercontent.com/DUrttu/FLAPPY/master/kalakukko1.png');
-  kuva2 = loadImage('https://raw.githubusercontent.com/DUrttu/FLAPPY/master/kalakukko2.png');
+  dead = loadImage('taustaa.png');
+  kuva1 = loadImage('kalakukko1.png');
+  kuva2 = loadImage('kalakukko2.png');
   start = loadImage('https://raw.githubusercontent.com/DUrttu/FLAPPY/master/Imported%20piskel.png?token=AuprPXfdKIS7SvfvdA_pPTi6Y1cPrFmNks5cn8REwA%3D%3D');
 }
 
